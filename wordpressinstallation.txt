@@ -1,0 +1,5 @@
+first install xampp server in c folder .
+then start xampp control and run thr localhost /dashboard/
+now click phpmyadmin and create a database then wordpress.org download all files copy then paste in c folder xampp htdocs new folder name (same database name)
+and now run the local host dashboard...
+look dashboard.
